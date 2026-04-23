@@ -8,7 +8,8 @@ Repository contains scripts to limit CPU frequences on Odin 3 (Snapdragon 8 Elit
 
 - Download [repository archive](https://github.com/vlad-tkachenko/odin3.cpu.preset/archive/refs/heads/master.zip)
 - Unzip folder to the desired location
-- Choose performance profile on your device (to unlock GPU clocks)
+- Change Performance to `High Performance` (to unlock GPU clocks)
+- Change Fan to `Smart` (additionally adjust Fan speed curve, I personally use 20%, 20%, 20%, 28%, 41% and termal zone preference `CPU` now)
 - Go to Settings -> Odin Settings
 - Scroll to the bottom
 - Click on `Run script as root`
